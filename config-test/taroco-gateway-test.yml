@@ -5,7 +5,7 @@ spring:
     host: ${base.redis.host}
     port: ${base.redis.port}
     password: ${base.redis.password}
-    database: 0
+    database: 1
 
 # 路由配置
 zuul:
