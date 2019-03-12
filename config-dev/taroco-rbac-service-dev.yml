@@ -45,11 +45,11 @@ taroco:
     version: 1.0.1-SNAPSHOT
     license: Apache License, Version 2.0
     license-url: https://www.apache.org/licenses/LICENSE-2.0.html
-    terms-of-service-url: https://github.com/liuht777/Taroco
-    contact:
-      name: liuht
-      url: https://github.com/liuht777
-      email: liuht777@qq.com
+#    terms-of-service-url: https://github.com/liuht777/Taroco
+#    contact:
+#      name: liuht
+#      url: https://github.com/liuht777
+#      email: liuht777@qq.com
     base-package: cn.taroco.rbac.admin.controller
     base-path: /**
     exclude-path: /error
