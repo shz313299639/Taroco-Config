@@ -8,8 +8,8 @@ base:
     url: jdbc:mysql://127.0.0.1:3306
   redis:
     host: 127.0.0.1
-    port: 6379
-    password: 
+    port: 6666
+    password: 123456
   zipkin:
     url: http://1227.0.0.1:10003/
 
