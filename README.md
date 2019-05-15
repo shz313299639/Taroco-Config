@@ -1,2 +1,2 @@
-# Taroco-Config
-Taroco Git 在线配置文件
+# LSoft-Config
+LSoft Git 在线配置文件
